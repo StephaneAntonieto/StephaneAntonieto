@@ -134,3 +134,25 @@ With solid SQL skills and a constant learning mindset, my goal is to create effi
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
+
+
+<br/>
+<br/>
+
+### ⏳ Statistics
+
+<img 
+    align="left"
+    alt="GitHub Statistics"
+    height="200px"
+    style="padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api?username=stephaneantonieto&show_icons=true&theme=tokyonight&include_all_commits=true"
+/>
+
+<img 
+    align="left"
+    alt="GitHub Statistics"
+    height="200px"
+    style="padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaneantonieto&theme=tokyonight&layout=compact&langs_count=10"
+/>
