@@ -1,6 +1,6 @@
 # Stephane Antonieto
 
-**`Desenvolvedor Mobile`**
+**`Mobile Developer`**
 
-Desenvolvedor Mobile com experiência em Flutter, Ionic e React. Atualmente, estou explorando mais recursos do Flutter e do Dart, além de trabalhar com servidor Shelf.
-Com um bom domínio de SQL e uma mentalidade de aprendizado constante, meu objetivo é criar soluções eficientes e intuitivas.
+Mobile Developer with experience in Flutter, Ionic, and React. Currently, I am exploring advanced features of Flutter and Dart, as well as working with the Shelf server.
+With solid SQL skills and a constant learning mindset, my goal is to create efficient and intuitive solutions.
