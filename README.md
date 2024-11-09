@@ -146,7 +146,7 @@ With solid SQL skills and a constant learning mindset, my goal is to create effi
     alt="GitHub Statistics"
     height="200px"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=stephaneantonieto&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=stephaneantonieto&show_icons=true&include_all_commits=true"
 />
 
 <img 
@@ -154,5 +154,5 @@ With solid SQL skills and a constant learning mindset, my goal is to create effi
     alt="GitHub Statistics"
     height="200px"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaneantonieto&theme=tokyonight&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaneantonieto&layout=compact&langs_count=10"
 />
