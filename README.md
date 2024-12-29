@@ -2,8 +2,7 @@
 
 **`Mobile Developer`**
 
-Mobile Developer with experience in Flutter, Ionic, and React. Currently, I am exploring advanced features of Flutter and Dart, as well as working with the Shelf server.
-With solid SQL skills and a constant learning mindset, my goal is to create efficient and intuitive solutions.
+Passionate about technology and innovation, always seeking to learn, explore, and implement new ideas. Believes that continuous learning is the key to creating solutions that make a difference.
 
 ---
 
