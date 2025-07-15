@@ -1,7 +1,5 @@
 # 🧑🏼‍💻 Stephane Antonieto
 
-**`Mobile Developer`**
-
 Passionate about technology and innovation, always seeking to learn, explore, and implement new ideas. Believes that continuous learning is the key to creating solutions that make a difference.
 
 ---
