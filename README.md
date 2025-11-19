@@ -1,9 +1,5 @@
 # 🧑🏼‍💻 Stephane Antonieto
 
-Passionate about technology and innovation, always seeking to learn, explore, and implement new ideas. Believes that continuous learning is the key to creating solutions that make a difference.
-
----
-
 ### 🛠️ Languages and Technologies
 
 <img 
@@ -35,24 +31,6 @@ Passionate about technology and innovation, always seeking to learn, explore, an
 
 <img 
     align="left"
-    alt="Ionic"
-    title="Ionic"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="Angular"
-    title="Angular"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
-/>
-
-<img 
-    align="left"
     alt="HTML"
     title="HTML"
     width="30px"
@@ -67,6 +45,15 @@ Passionate about technology and innovation, always seeking to learn, explore, an
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
 <img 
