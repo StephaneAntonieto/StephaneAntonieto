@@ -1,5 +1,3 @@
-# 🧑🏼‍💻 Stephane Antonieto
-
 ### 🛠️ Languages and Technologies
 
 <img 
