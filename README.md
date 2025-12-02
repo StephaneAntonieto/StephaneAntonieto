@@ -121,16 +121,6 @@
 <br/>
 <br/>
 
-### ⏳ Statistics
-
-<!-- <img 
-    align="left"
-    alt="GitHub Statistics"
-    height="200px"
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=stephaneantonieto&show_icons=true&include_all_commits=true"
-/> -->
-
 <img 
     align="left"
     alt="GitHub Statistics"
