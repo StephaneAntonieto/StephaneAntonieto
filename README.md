@@ -2,24 +2,6 @@
 
 <img 
     align="left"
-    alt="Flutter"
-    title="Flutter"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="Dart"
-    title="Dart"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
-/>
-
-<img 
-    align="left"
     alt="React"
     title="React"
     width="30px"
@@ -29,20 +11,20 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="NodeJS"
+    title="NodeJS"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Flutter"
+    title="Flutter"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
 />
 
 <img 
@@ -56,15 +38,6 @@
 
 <img 
     align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
-<img 
-    align="left"
     alt="TypeScript"
     title="TypeScript"
     width="30px"
@@ -74,11 +47,20 @@
 
 <img 
     align="left"
-    alt="Firebase"
-    title="Firebase"
+    alt="Dart"
+    title="Dart"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="Postgresql"
+    title="Postgresql"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
 <img 
@@ -97,6 +79,15 @@
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="Firebase"
+    title="Firebase"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
 />
 
 <img 
