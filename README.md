@@ -117,10 +117,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
-
-<br/>
-<br/>
-
 <img 
     align="left"
     alt="GitHub Statistics"
